@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixin.bloodhack.json
+FMLCorePluginContainsFMLMod: true
+ForceLoadAsMod: true
+FMLCorePlugin: dev.lors.bloodhack.mixin.MixinLoader
+
