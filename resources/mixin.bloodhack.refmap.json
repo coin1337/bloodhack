@@ -1,0 +1,31 @@
+{
+  "mappings": {
+    "dev/lors/bloodhack/mixin/client/MixinAbstractClientPlayer": {
+      "getLocationCape": "Lnet/minecraft/client/entity/AbstractClientPlayer;func_110303_q()Lnet/minecraft/util/ResourceLocation;"
+    },
+    "dev/lors/bloodhack/mixin/client/MixinMinecraft": {
+      "crashed": "Lnet/minecraft/client/Minecraft;func_71404_a(Lnet/minecraft/crash/CrashReport;)V",
+      "shutdown": "Lnet/minecraft/client/Minecraft;func_71400_g()V"
+    }
+  },
+  "data": {
+    "notch": {
+      "dev/lors/bloodhack/mixin/client/MixinAbstractClientPlayer": {
+        "getLocationCape": "Lbua;q()Lnf;"
+      },
+      "dev/lors/bloodhack/mixin/client/MixinMinecraft": {
+        "crashed": "Lbib;a(Lb;)V",
+        "shutdown": "Lbib;n()V"
+      }
+    },
+    "searge": {
+      "dev/lors/bloodhack/mixin/client/MixinAbstractClientPlayer": {
+        "getLocationCape": "Lnet/minecraft/client/entity/AbstractClientPlayer;func_110303_q()Lnet/minecraft/util/ResourceLocation;"
+      },
+      "dev/lors/bloodhack/mixin/client/MixinMinecraft": {
+        "crashed": "Lnet/minecraft/client/Minecraft;func_71404_a(Lnet/minecraft/crash/CrashReport;)V",
+        "shutdown": "Lnet/minecraft/client/Minecraft;func_71400_g()V"
+      }
+    }
+  }
+}

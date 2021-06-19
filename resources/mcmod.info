@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bloodhack",
+  "name": "BloodHack",
+  "description": "BloodHack b1",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nowilltolife ","Lors"],
+  "credits": "me, myself",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
